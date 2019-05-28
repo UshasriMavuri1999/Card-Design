@@ -1,0 +1,22 @@
+.sub1{
+  background: red;
+  border-radius: 10px;
+   box-shadow: 5px 10px black;
+}
+.sub2{
+  background: green;
+  border-radius: 10px;
+   box-shadow: 5px 10px black;
+}
+.sub3{
+  background: blue;
+  border-radius: 10px;
+   box-shadow: 5px 10px black;
+}
+maindiv {
+width: 600px;
+padding: 10px;
+border: 5px solid gray;
+margin: 10;
+transform: translate(150%, 50%);
+}
